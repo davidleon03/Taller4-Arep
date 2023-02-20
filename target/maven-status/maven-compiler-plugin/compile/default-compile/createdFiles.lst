@@ -1,6 +1,10 @@
-org\escuelaing\arep\Faa.class
-org\escuelaing\arep\InvokeMain.class
-org\escuelaing\arep\Foo.class
-org\escuelaing\arep\RunTests.class
-org\escuelaing\arep\Main.class
-org\escuelaing\arep\Test.class
+org\escuelaing\arep\part1\Faa.class
+org\escuelaing\arep\taller\App.class
+org\escuelaing\arep\part1\Main.class
+org\escuelaing\arep\taller\Controller.class
+org\escuelaing\arep\part1\Foo.class
+org\escuelaing\arep\taller\HttpServer.class
+org\escuelaing\arep\taller\RequestMapping.class
+org\escuelaing\arep\part1\InvokeMain.class
+org\escuelaing\arep\part1\RunTests.class
+org\escuelaing\arep\part1\Test.class
